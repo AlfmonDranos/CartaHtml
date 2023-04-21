@@ -1,0 +1,32 @@
+.divao
+{
+    
+    background-color: brown;
+    height: 600px;
+    width: 400px;
+    margin: auto;
+    margin-top: 15px;
+    border: 1px solid;
+    border-radius: 10px;
+    text-align: center;
+}
+.saudar
+{
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.txt
+{
+    margin-top: 35px;
+    font-size: large;
+
+}
+
+.adeus
+{
+    margin-top: 75px;
+    text-align: left;
+}
+
